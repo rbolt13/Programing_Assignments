@@ -1,0 +1,52 @@
+9 15
+1 1 // begin downstroke of R
+2 1
+3 1
+4 1
+5 1
+6 1
+7 1
+1 2 // begin top of R
+1 3
+1 4
+2 5
+3 5
+4 4 // begin middle of R
+4 3
+4 2
+5 3 // begin leg of R
+6 4
+7 5
+
+1 8  // begin downstroke of B
+2 8
+3 8
+4 8
+5 8
+6 8
+7 8
+1 9  // begin top of B
+1 10
+1 11
+2 12
+3 12
+4 11  // begin middle of B
+4 10
+4 9
+5 12
+6 12
+7 11  // begin bottom of B, right to left
+7 10
+7 9	  // end of B
+
+-1 -1  // end of data
+
+0123456789012
+ XXXX   XXXX
+ X   X  X   X
+ X   X  X   X
+ XXXX   XXXX
+ X  X   X   X
+ X   X  X   X
+ X    X XXXX
+

@@ -1,0 +1,6 @@
+-999  3   1.00 Toddler  // babies
+   3 10  12.00 Child	// children
+  10 20  16.50 Youth	// pre-teen and teens
+  20 60  20.00 Adult	// adult rate
+  60 999 18.00 Senior	// seniors get a discount off the adult price
+
